@@ -35,6 +35,7 @@ Suponemos que tenemos una cadena que contiene los siguientes valores:
 
 Si queremos crear la nube de etiquetas insertaremos las siguientes 2 líneas:
 <pre>
+   include "tagcloud.php";
    $tagCloud = new TagCloud;
    $tagCloud->create($tags);
 </pre>
@@ -42,6 +43,7 @@ Si queremos crear la nube de etiquetas insertaremos las siguientes 2 líneas:
 Si además le queremos enviar una URL distinta a la actual podemos incluirlo en la función create(). Si no se le pone URL se tomara por defecto la URL actual.
 
 <pre>
+   include "tagcloud.php";
    $tagCloud = new TagCloud;
    $tagCloud->create($tags, $_SERVER['REQUEST_URI']);
 </pre>
