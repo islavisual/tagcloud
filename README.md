@@ -1,7 +1,9 @@
 tagcloud
 ========
+Esta utilidad también está explicada en http://www.islavisual.com/articulos/desarrollo_web/tagcloud-clase-para-crear-nubes-de-etiquetas-en-php
 
 La clase usa como fuente de datos una cadena en la que se encuentran todas las etiquetas o tags separadas por comas. Con la función create() se crearán las etiquetas y se le aplicarán los estilos definidos en tu CSS.
+
 
 Estilos aplicados por CSS
 -------------------------
