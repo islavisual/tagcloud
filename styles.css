@@ -1,0 +1,15 @@
+.etiqueta0 { color:#aaaaaa; font-size: 12px; }
+.etiqueta0:hover span { text-decoration:none !important; }
+a.etiqueta1 { font-size: 12px; text-decoration:none; padding:2px; margin:3px; display:inline-block; }
+a.etiqueta2 { font-size: 16px; text-decoration:none; padding:2px; margin:3px; display:inline-block; }
+a.etiqueta3 { font-size: 20px; text-decoration:none; padding:2px; margin:3px; display:inline-block; }
+a.etiqueta4 { font-size: 24px; text-decoration:none; padding:2px; margin:3px; display:inline-block; }
+a.etiqueta5 { font-size: 28px; text-decoration:none; padding:2px; margin:3px; display:inline-block; }
+a.etiqueta6 { font-size: 32px; text-decoration:none; padding:2px; margin:3px; display:inline-block; }
+a.etiqueta1:hover{ text-decoration:underline; }
+a.etiqueta2:hover{ text-decoration:underline; }
+a.etiqueta3:hover{ text-decoration:underline; }
+a.etiqueta4:hover{ text-decoration:underline; }
+a.etiqueta5:hover{ text-decoration:underline; }
+a.etiqueta6:hover{ text-decoration:underline; }
+a.etiqueta1:hover span{ text-decoration:none !important; color:#5567B9 }
